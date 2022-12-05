@@ -155,7 +155,7 @@ else{
                 ?>
    
 
-        <form method="post" action="../actions/add_Service.php" enctype="multipart/form-data" >
+        <form method="post" action="../actions/add_service.php" enctype="multipart/form-data" >
             <div class="form-group">
             <label>Service Name</label>
             <input type="text" class="form-control" id="sname" name="sname">
