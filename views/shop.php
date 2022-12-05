@@ -8,7 +8,7 @@ include('menu.php');
 <section class="home-section home-fade home-full-height" id="home">
   <div class="hero-slider">
     <ul class="slides">
-      <li class="bg-dark-30 bg-dark shop-page-header" style="background-image:url(&quot;../assets/images/landing/Tbcg.JPG&quot;);">
+      <li class="bg-dark-30 bg-dark shop-page-header" style="background-image:url(&quot;../assets/images/landing/Tbcg.jpg&quot;);">
         <div class="titan-caption">
           <div class="caption-content">
             <div class="font-alt mb-30 titan-title-size-1">This is letsheal</div> 
