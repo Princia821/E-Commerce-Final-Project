@@ -11,7 +11,7 @@ include_once('menu.php');
  
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 <div class="main">
-  <section class="module bg-dark-30" data-background="../assets/images/Landing/login.JPG">
+  <section class="module bg-dark-30" data-background="../assets/images/Landing/login.jpg">
     <div class="container">
       <div class="row">
         <div class="col-sm-6 col-sm-offset-3">
