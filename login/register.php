@@ -5,7 +5,7 @@ include('../views/menu.php');
 ?>
 
       <div class="main">
-        <section class="module bg-dark-30" data-background="../assets/images/Landing/login.JPG"> </section>
+        <section class="module bg-dark-30" data-background="../assets/images/Landing/login.jpg"> </section>
         <section class="module">
           <div class="container">
             <div class="row-center">
